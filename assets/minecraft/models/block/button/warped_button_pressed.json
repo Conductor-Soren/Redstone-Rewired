@@ -1,0 +1,6 @@
+{
+  "parent": "block/button/button_pressed",
+  "textures": {
+    "texture": "block/default_textures/warped_planks"
+  }
+}
