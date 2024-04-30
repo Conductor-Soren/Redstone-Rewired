@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/pressure_plate_down",
+  "parent": "block/pressure_plate/pressure_plate_down",
   "textures": {
-    "texture": "minecraft:block/polished_blackstone"
+    "texture": "block/default_textures/polished_blackstone"
   }
 }

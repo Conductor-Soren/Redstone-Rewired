@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/pressure_plate_up",
+  "parent": "block/pressure_plate/pressure_plate_up",
   "textures": {
-    "texture": "minecraft:block/jungle_planks"
+    "texture": "block/default_textures/jungle_planks"
   }
 }
