@@ -169,7 +169,7 @@
       "y": 90
     },
     "delay=3,facing=west,locked=false,powered=true": {
-      "model": "minecraft:block/repeater_3tick_on",
+      "model": "block/repeater/repeater_3tick_on",
       "y": 90
     },
     "delay=3,facing=west,locked=true,powered=false": {

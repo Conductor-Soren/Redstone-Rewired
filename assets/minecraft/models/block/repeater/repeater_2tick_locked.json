@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "block/umsoea_models/redstone_torch",
 		"1": "block/umsoea_models/repeater_base",
-		"particle": "block/umsoea_models/redstone_torch"
+		"particle": "block/umsoea_models/repeater_base"
 	},
 	"elements": [
 		{
