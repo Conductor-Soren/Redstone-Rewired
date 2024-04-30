@@ -1,0 +1,61 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"1": "block/umsoea_models/button",
+		"particle": "block/default_textures/acacia_planks",
+		"texture": "block/default_textures/acacia_planks"
+	},
+	"elements": [
+		{
+			"from": [5, 7, 1.02],
+			"to": [11, 10, 5.02],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 7.975, 5.51]},
+			"faces": {
+				"north": {"uv": [5, 12, 11, 16], "texture": "#texture"},
+				"east": {"uv": [6, 12, 10, 16], "texture": "#texture"},
+				"south": {"uv": [5, 12, 11, 16], "texture": "#texture"},
+				"west": {"uv": [6, 12, 10, 16], "texture": "#texture"},
+				"up": {"uv": [5, 10, 11, 6], "rotation": 180, "texture": "#texture"},
+				"down": {"uv": [5, 6, 11, 10], "rotation": 180, "texture": "#texture"}
+			}
+		},
+		{
+			"from": [4, 7, 0.02],
+			"to": [12, 7.9, 11.02],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 7.975, 5.51]},
+			"faces": {
+				"north": {"uv": [14, 2, 15, 3], "texture": "#1"},
+				"east": {"uv": [14, 2, 15, 3], "texture": "#1"},
+				"south": {"uv": [14, 2, 15, 3], "texture": "#1"},
+				"west": {"uv": [14, 2, 15, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 11.6, 15.96875], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [14, 2, 15, 3], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [6.5, 7, 6.52],
+			"to": [9.5, 7.91, 9.52],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 7.975, 5.51]},
+			"faces": {
+				"up": {"uv": [12, 0, 14, 1.96875], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.3, 7, 10.48],
+			"to": [8.7, 7.91, 10.6],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 7.975, 5.51]},
+			"faces": {
+				"up": {"uv": [13.96875, 2, 14.96875, 3], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.3, 7, 0.42],
+			"to": [8.7, 7.91, 0.54],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 7.975, 5.51]},
+			"faces": {
+				"up": {"uv": [13, 2, 14, 3], "rotation": 180, "texture": "#1"}
+			}
+		}
+	]
+}
