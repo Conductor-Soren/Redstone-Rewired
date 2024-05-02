@@ -1,0 +1,10 @@
+{
+    "parent": "block/calibrated_sculk_sensor/calibrated_sculk_sensor",
+    "textures": {
+        "tendrils": "block/umsoea_models/sculk_sensor_tendril_inactive",
+        "bottom": "block/umsoea_models/sculk_sensor_base_bottom",
+        "side": "block/umsoea_models/sculk_sensor_base_side_off",
+        "calibrated_side": "block/umsoea_models/calibrated_sculk_sensor_base_input_side_off",
+        "top": "block/umsoea_models/calibrated_sculk_sensor_base_top_off"
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "sculk_sensor_phase=active": {
+      "model": "block/sculk_sensor/sculk_sensor_active"
+    },
+    "sculk_sensor_phase=cooldown": {
+      "model": "block/sculk_sensor/sculk_sensor_active"
+    },
+    "sculk_sensor_phase=inactive": {
+      "model": "block/sculk_sensor/sculk_sensor_inactive"
+    }
+  }
+}

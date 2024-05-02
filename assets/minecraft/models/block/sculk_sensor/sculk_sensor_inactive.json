@@ -1,0 +1,9 @@
+{
+    "parent": "block/sculk_sensor/sculk_sensor",
+    "textures": {
+        "base_top": "block/umsoea_models/sculk_sensor_base_top_off",
+        "base_side": "block/umsoea_models/sculk_sensor_base_side_off",
+        "base_bottom": "block/umsoea_models/sculk_sensor_base_bottom",
+        "tendrils": "block/umsoea_models/sculk_sensor_tendril_inactive"
+    }
+}
