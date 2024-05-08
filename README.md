@@ -1,4 +1,4 @@
-# Redstone-Wire-Updated
+# Redstone-Rewired
 Here is the original pack: https://www.curseforge.com/minecraft/texture-packs/redstone-wire
 
 If you find and bugs or would like to suggest a feature please leave a comment.
