@@ -5,7 +5,7 @@
         "base_top": "block/umsoea_models/sculk_sensor_base_top_off",
         "base_side": "block/umsoea_models/sculk_sensor_base_side_off",
         "tendrils": "block/umsoea_models/sculk_sensor_tendril_inactive",
-        "particle": "block/umsoea_models/sculk_sensor_base_off"
+        "particle": "block/umsoea_models/sculk_sensor_base_side_off"
     },
     "elements": [
         {
