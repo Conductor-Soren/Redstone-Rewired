@@ -70,49 +70,43 @@
     },
     "face=wall,facing=east,powered=false": {
       "model": "block/button/crimson_button",
-      "uvlock": true,
-      "x": 90,
-      "y": 90
+      "x": 270,
+      "y": 270
     },
     "face=wall,facing=east,powered=true": {
       "model": "block/button/crimson_button_pressed",
-      "uvlock": true,
-      "x": 90,
-      "y": 90
+      "x": 270,
+      "y": 270
     },
     "face=wall,facing=north,powered=false": {
       "model": "block/button/crimson_button",
-      "uvlock": true,
-      "x": 90
+      "x": 270,
+      "y": 180
     },
     "face=wall,facing=north,powered=true": {
       "model": "block/button/crimson_button_pressed",
-      "uvlock": true,
-      "x": 90
+      "x": 270,
+      "y": 180
     },
     "face=wall,facing=south,powered=false": {
       "model": "block/button/crimson_button",
-      "uvlock": true,
-      "x": 90,
-      "y": 180
+      "x": 270,
+      "y": 0
     },
     "face=wall,facing=south,powered=true": {
       "model": "block/button/crimson_button_pressed",
-      "uvlock": true,
-      "x": 90,
-      "y": 180
+      "x": 270,
+      "y": 0
     },
     "face=wall,facing=west,powered=false": {
       "model": "block/button/crimson_button",
-      "uvlock": true,
-      "x": 90,
-      "y": 270
+      "x": 270,
+      "y": 90
     },
     "face=wall,facing=west,powered=true": {
       "model": "block/button/crimson_button_pressed",
-      "uvlock": true,
-      "x": 90,
-      "y": 270
+      "x": 270,
+      "y": 90
     }
   }
 }
