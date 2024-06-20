@@ -8,7 +8,7 @@
 			{   "when": { "north": "none", "south": "none", "west": "side|up", "east": "side|up" },"apply": { "model": "block/umsoea_redstone/line", "y": 90 }},
 			
 			{   "when": { "north": "none", "south": "none", "west": "none", "east": "none" },"apply": { "model": "block/umsoea_redstone/box" }},
-			{   "when": { "north": "side|up", "south": "side|up", "west": "side|up", "east": "side|up" },"apply": [{ "model": "block/umsoea_redstone/center" }, { "model": "block/umsoea_redstone/center2" }]}
+			{   "when": { "north": "side|up", "south": "side|up", "west": "side|up", "east": "side|up" },"apply": [{ "model": "block/umsoea_redstone/center" }]}
 			,
 			{   "when": { "north": "side|up", "south": "none", "west": "side|up", "east": "side|up", "power": 0 },"apply": { "model": "block/umsoea_redstone/t_shape0" }},
 			{   "when": { "north": "side|up", "south": "none", "west": "side|up", "east": "side|up", "power": 1 },"apply": { "model": "block/umsoea_redstone/t_shape1" }},

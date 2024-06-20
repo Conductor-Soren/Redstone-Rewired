@@ -4,6 +4,8 @@
         "top": "block/umsoea_models/sculk_sensor_base_top_on",
 		"side": "block/umsoea_models/daylight_detector_side_on",
 		"number": "block/umsoea_models/0-15/number_7",
-		"photovoltaic_cell": "block/umsoea_models/photovoltaic_cell_day"
+		"photovoltaic_cell": "block/umsoea_models/photovoltaic_cell_day",
+        "torch": "block/umsoea_models/small_torch_on",
+        "wire": "block/umsoea_models/wire_on"
     }
 }
