@@ -1,0 +1,9 @@
+{
+    "parent": "block/daylight_detector/daylight_detector_on",
+    "textures": {
+		"number": "block/umsoea_models/0-15/number_11",
+		"photovoltaic_cell": "block/umsoea_models/photovoltaic_cell_night",
+        "torch": "block/umsoea_models/small_torch_on",
+        "wire": "block/umsoea_models/wire_on"
+    }
+}

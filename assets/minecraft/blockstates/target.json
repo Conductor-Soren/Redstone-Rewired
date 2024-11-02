@@ -1,0 +1,20 @@
+{
+  "multipart":[
+    {"when": { "power": "0" }, "apply": { "model": "block/target/target_0" }},
+    {"when": { "power": "1" }, "apply": { "model": "block/target/target_4" }},
+    {"when": { "power": "2" }, "apply": { "model": "block/target/target_4" }},
+    {"when": { "power": "3" }, "apply": { "model": "block/target/target_4" }},
+    {"when": { "power": "4" }, "apply": { "model": "block/target/target_3" }},
+    {"when": { "power": "5" }, "apply": { "model": "block/target/target_3" }},
+    {"when": { "power": "6" }, "apply": { "model": "block/target/target_3" }},
+    {"when": { "power": "7" }, "apply": { "model": "block/target/target_3" }},
+    {"when": { "power": "8" }, "apply": { "model": "block/target/target_3" }},
+    {"when": { "power": "9" }, "apply": { "model": "block/target/target_2" }},
+    {"when": { "power": "10" }, "apply": { "model": "block/target/target_2" }},
+    {"when": { "power": "11" }, "apply": { "model": "block/target/target_2" }},
+    {"when": { "power": "12" }, "apply": { "model": "block/target/target_2" }},
+    {"when": { "power": "13" }, "apply": { "model": "block/target/target_1" }},
+    {"when": { "power": "14" }, "apply": { "model": "block/target/target_1" }},
+    {"when": { "power": "15" }, "apply": { "model": "block/target/target_1" }}
+  ]
+}
