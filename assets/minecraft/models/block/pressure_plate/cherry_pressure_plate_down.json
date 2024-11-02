@@ -1,6 +1,0 @@
-{
-  "parent": "block/pressure_plate/pressure_plate_down",
-  "textures": {
-    "texture": "block/default_textures/cherry_planks"
-  }
-}

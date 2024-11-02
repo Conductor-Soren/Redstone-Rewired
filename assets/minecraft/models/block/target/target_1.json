@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "block/umsoea_models/target_bullseye",
-    "side": "block/umsoea_models/target_bullseye"
-  }
-}
