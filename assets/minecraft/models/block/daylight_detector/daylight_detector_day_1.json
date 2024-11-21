@@ -3,11 +3,6 @@
     "textures": {
 		"number": "block/umsoea_models/0-15/number_2",
 		"photovoltaic_cell": "block/umsoea_models/photovoltaic_cell_day",
-<<<<<<< HEAD
         "torch": "block/umsoea_models/small_torch_on"
-=======
-        "torch": "block/umsoea_models/small_torch_on",
-        "wire": "block/umsoea_models/wire_on"
->>>>>>> 6093b38fb4f91beda7d4756ab7fda89917c91610
     }
 }
