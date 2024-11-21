@@ -221,6 +221,7 @@
 		{
 			"from": [4, 1.03, 1.425],
 			"to": [7, 1.03, 2.575],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 1.76, 2]},
 			"faces": {
 				"up": {"uv": [8, 0, 16, 1], "texture": "#6"}
@@ -229,6 +230,7 @@
 		{
 			"from": [4, 1.03, 5.425],
 			"to": [7, 1.03, 6.575],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 1.76, 2]},
 			"faces": {
 				"up": {"uv": [8, 0, 16, 1], "texture": "#6"}
@@ -237,6 +239,7 @@
 		{
 			"from": [4, 1.03, 9.425],
 			"to": [7, 1.03, 10.575],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 1.76, 2]},
 			"faces": {
 				"up": {"uv": [8, 0, 16, 1], "texture": "#6"}
@@ -245,6 +248,7 @@
 		{
 			"from": [4, 1.03, 13.425],
 			"to": [7, 1.03, 14.575],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 1.76, 2]},
 			"faces": {
 				"up": {"uv": [8, 0, 16, 1], "texture": "#6"}
@@ -253,6 +257,7 @@
 		{
 			"from": [9, 1.03, 13.425],
 			"to": [12, 1.03, 14.575],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 1.76, 2]},
 			"faces": {
 				"up": {"uv": [8, 0, 16, 1], "texture": "#6"}
@@ -261,6 +266,7 @@
 		{
 			"from": [9, 1.03, 9.425],
 			"to": [12, 1.03, 10.575],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 1.76, 2]},
 			"faces": {
 				"up": {"uv": [8, 0, 16, 1], "texture": "#6"}
@@ -269,6 +275,7 @@
 		{
 			"from": [9, 1.03, 5.425],
 			"to": [12, 1.03, 6.575],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 1.76, 2]},
 			"faces": {
 				"up": {"uv": [8, 0, 16, 1], "texture": "#6"}
@@ -277,6 +284,7 @@
 		{
 			"from": [9, 1.03, 1.425],
 			"to": [12, 1.03, 2.575],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 1.76, 2]},
 			"faces": {
 				"up": {"uv": [8, 0, 16, 1], "texture": "#6"}
@@ -285,6 +293,7 @@
 		{
 			"from": [7.43, 0.77, 1.5],
 			"to": [8.58, 0.77, 14.5],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.025, 0.5, 8]},
 			"faces": {
 				"up": {"uv": [8.164, 0.031, 16, 1.079], "rotation": 90, "texture": "#6"}

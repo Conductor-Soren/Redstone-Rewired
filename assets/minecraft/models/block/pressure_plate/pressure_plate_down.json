@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/umsoea_models/comparator_base",
+		"2": "block/umsoea_models/indecator_on_e",
 		"particle": "#texture"
 	},
 	"elements": [
@@ -73,6 +74,46 @@
 				"west": {"uv": [3, 3.3125, 5, 3.9125], "texture": "#1"},
 				"up": {"uv": [3, 3.35938, 5, 3.75938], "rotation": 90, "texture": "#1"}
 			}
+		},
+		{
+			"name": "Indicator",
+			"from": [15.22, 0.45, 6.62],
+			"to": [15.39, 0.46, 9.37],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 0.485, 7.995]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.17], "rotation": 270, "texture": "#2"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [6.63, 0.45, 15.21],
+			"to": [9.38, 0.46, 15.38],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 0.485, 7.995]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.17], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [0.62, 0.45, 6.62],
+			"to": [0.79, 0.46, 9.37],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 0.485, 7.995]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.17], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [6.63, 0.45, 0.61],
+			"to": [9.38, 0.46, 0.78],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 0.485, 7.995]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.17], "rotation": 180, "texture": "#2"}
+			}
 		}
 	],
 	"groups": [
@@ -83,6 +124,12 @@
 			"origin": [0, 0, 0],
 			"color": 0,
 			"children": [2, 3, 4, 5]
+		},
+		{
+			"name": "Up",
+			"origin": [8.005, 15.985, 7.995],
+			"color": 0,
+			"children": [6, 7, 8, 9]
 		}
 	]
 }

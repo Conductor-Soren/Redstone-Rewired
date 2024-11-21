@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/umsoea_models/tripwire_hook",
+		"2": "block/umsoea_models/indecator_on_e",
 		"particle": "block/umsoea_models/tripwire_hook",
 		"tripwire": "block/default_textures/tripwire"
 	},
@@ -51,13 +52,6 @@
 			}
 		},
 		{
-			"from": [7, 2, 13.95],
-			"to": [9, 4, 14.05],
-			"faces": {
-				"north": {"uv": [12, 4, 14, 6], "texture": "#1"}
-			}
-		},
-		{
 			"from": [6.2, 3, 7.1],
 			"to": [9.8, 4, 10.7],
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 5.29454, 8.43093]},
@@ -100,6 +94,51 @@
 			"rotation": {"angle": 0, "axis": "x", "origin": [8, 5.29454, 8.43093]},
 			"faces": {
 				"south": {"uv": [0.90625, 3.40625, 3.00625, 4.41625], "texture": "#1"}
+			}
+		},
+		{
+			"from": [8.33072, 2.34144, 13.94],
+			"to": [8.44072, 3.83144, 13.95],
+			"light_emission": 15,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7.99002, 2.91, 13.81996]},
+			"faces": {
+				"north": {"uv": [0, 13, 16, 14.235], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [7.53144, 2.40548, 13.94],
+			"to": [7.64144, 3.80548, 13.95],
+			"light_emission": 15,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7.99002, 2.91, 13.81996]},
+			"faces": {
+				"north": {"uv": [0, 13, 16, 14.235], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [7.38004, 2.51996, 13.94],
+			"to": [8.58004, 2.62996, 13.95],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "z", "origin": [7.99002, 2.91, 13.81996]},
+			"faces": {
+				"north": {"uv": [0, 13, 16, 14.235], "rotation": 180, "texture": "#2"}
+			}
+		},
+		{
+			"from": [7.65, 1.2, 13.98],
+			"to": [8.35, 1.31, 13.99],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "x", "origin": [8.51, 1.16, 13.985]},
+			"faces": {
+				"north": {"uv": [0, 13, 16, 14.235], "texture": "#2"}
+			}
+		},
+		{
+			"from": [7.65, 8.7, 13.98],
+			"to": [8.35, 8.81, 13.99],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.51, 8.66, 13.985]},
+			"faces": {
+				"north": {"uv": [0, 13, 16, 14.235], "rotation": 180, "texture": "#2"}
 			}
 		}
 	]

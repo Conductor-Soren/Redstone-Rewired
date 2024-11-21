@@ -8,6 +8,7 @@
 		"6": "block/umsoea_models/comparator_base",
 		"7": "block/umsoea_models/detector_rail_pressure_side_on",
 		"8": "block/umsoea_models/tripwire_hook",
+		"9": "block/umsoea_models/indecator_on_e",
 		"particle": "block/umsoea_models/rail_track"
 	},
 	"elements": [
@@ -167,6 +168,114 @@
 				"up": {"uv": [10, 0, 14, 0.9625], "texture": "#8"},
 				"down": {"uv": [10, 0.0625, 12.79, 0.895], "texture": "#8"}
 			}
+		},
+		{
+			"name": "Indicator",
+			"from": [5.05, 0.39, 4.79],
+			"to": [5.15, 0.81, 4.8],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [12.505, 1.735, 4.745]},
+			"faces": {
+				"north": {"uv": [0, 13, 16.25, 14.335], "rotation": 270, "texture": "#9"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [10.85, 0.39, 4.79],
+			"to": [10.95, 0.81, 4.8],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "z", "origin": [10.85, 0.6, 4.795]},
+			"faces": {
+				"north": {"uv": [0, 13, 16.25, 14.335], "rotation": 90, "texture": "#9"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [5.05, 0.39, 11.2],
+			"to": [5.15, 0.81, 11.21],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.6, 11.295]},
+			"faces": {
+				"south": {"uv": [0, 13, 16.25, 14.335], "rotation": 90, "texture": "#9"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [10.85, 0.39, 11.2],
+			"to": [10.95, 0.81, 11.21],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.6, 11.295]},
+			"faces": {
+				"south": {"uv": [0, 13, 16.25, 14.335], "rotation": 270, "texture": "#9"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [7.45, 1.2, 10.88],
+			"to": [8.55, 1.21, 10.98],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8.755, 1.235, 3.745]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.085], "texture": "#9"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [7.45, 1.2, 5.05],
+			"to": [8.55, 1.21, 5.15],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1.205, 4.93]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.085], "rotation": 180, "texture": "#9"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [5.035, 1.2, 7.465],
+			"to": [5.135, 1.21, 8.565],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1.205, 8.015]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.085], "rotation": 90, "texture": "#9"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [10.865, 1.2, 7.465],
+			"to": [10.965, 1.21, 8.565],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 1.205, 8.015]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.085], "rotation": 270, "texture": "#9"}
+			}
 		}
+	],
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
+		5,
+		6,
+		7,
+		8,
+		9,
+		10,
+		11,
+		12,
+		13,
+		{
+			"name": "North",
+			"origin": [8.005, 7.985, -0.005],
+			"color": 0,
+			"children": [14, 15]
+		},
+		16,
+		17,
+		18,
+		19,
+		20,
+		21
 	]
 }

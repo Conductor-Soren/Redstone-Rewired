@@ -1,8 +1,6 @@
 {
-    "parent": "block/daylight_detector/daylight_detector",
+    "parent": "block/daylight_detector/daylight_detector_on",
     "textures": {
-        "top": "block/umsoea_models/sculk_sensor_base_top_on",
-		"side": "block/umsoea_models/daylight_detector_side_on",
 		"number": "block/umsoea_models/0-15/number_8",
 		"photovoltaic_cell": "block/umsoea_models/photovoltaic_cell_night",
         "torch": "block/umsoea_models/small_torch_on",

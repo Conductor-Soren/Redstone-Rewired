@@ -7,6 +7,7 @@
 		"5": "block/umsoea_models/tripwire_hook",
 		"6": "block/umsoea_models/detector_rail_pressure_base_on",
 		"7": "block/umsoea_models/detector_rail_pressure_side_on",
+		"8": "block/umsoea_models/indecator_on_e",
 		"particle": "block/umsoea_models/rail_track"
 	},
 	"elements": [
@@ -175,6 +176,46 @@
 			"rotation": {"angle": 45, "axis": "x", "origin": [8, 6.97, 8]},
 			"faces": {
 				"up": {"uv": [0, 8, 8, 16], "texture": "#3"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [10.865, 9.2, 7.6],
+			"to": [10.965, 9.21, 8.7],
+			"light_emission": 15,
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9.205, 8.015]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.085], "rotation": 270, "texture": "#8"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [7.45, 9.2, 11],
+			"to": [8.55, 9.21, 11.1],
+			"light_emission": 15,
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9.205, 8.015]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.085], "texture": "#8"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [7.45, 9.2, 5.2],
+			"to": [8.55, 9.21, 5.3],
+			"light_emission": 15,
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9.205, 8.015]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.085], "rotation": 180, "texture": "#8"}
+			}
+		},
+		{
+			"name": "Indicator",
+			"from": [5.035, 9.2, 7.6],
+			"to": [5.135, 9.21, 8.7],
+			"light_emission": 15,
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 9.205, 8.015]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.085], "rotation": 90, "texture": "#8"}
 			}
 		}
 	]

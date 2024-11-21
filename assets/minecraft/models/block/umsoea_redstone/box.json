@@ -49,6 +49,7 @@
 			"name": "red",
 			"from": [7.225, 1.525, 8.8],
 			"to": [7.675, 1.525, 9.15],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [4.7, -0.175, 8.5]},
 			"faces": {
 				"up": {"uv": [4.92969, 8.805, 5.82769, 9.992], "rotation": 90, "texture": "#0"}
@@ -58,6 +59,7 @@
 			"name": "green",
 			"from": [6.625, 1.525, 7.725],
 			"to": [6.85, 1.525, 8.3],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [4.025, -0.175, 7.2]},
 			"faces": {
 				"up": {"uv": [4.102, 8.03156, 5.688, 8.65556], "rotation": 90, "texture": "#0", "tintindex": 0}

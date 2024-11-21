@@ -68,6 +68,7 @@
 		{
 			"from": [7.43, 0.875, 0],
 			"to": [8.58, 0.875, 8],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8.005, 0.45, 8]},
 			"faces": {
 				"up": {"uv": [8.234, 0.031, 16, 1.079], "rotation": 90, "texture": "#1", "tintindex": 0}
@@ -149,6 +150,7 @@
 		{
 			"from": [0, 0.875, 7.43],
 			"to": [8, 0.875, 8.58],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.45, 8.005]},
 			"faces": {
 				"up": {"uv": [7.898, 0.031, 15.977, 1.079], "rotation": 180, "texture": "#1", "tintindex": 0}
@@ -165,6 +167,7 @@
 		{
 			"from": [8, 0.875, 7.43],
 			"to": [16, 0.875, 8.58],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0.45, 8.005]},
 			"faces": {
 				"up": {"uv": [8.234, 0.031, 16, 1.079], "rotation": 180, "texture": "#1", "tintindex": 0}
@@ -224,15 +227,22 @@
 			}
 		}
 	],
-	"groups": [0, 1, 2, 3, 4,
+	"groups": [
+		0,
+		1,
+		2,
+		3,
+		4,
 		{
 			"name": "line",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [5, 6, 7, 8, 9, 10, 11]
 		},
 		{
 			"name": "line",
 			"origin": [8, 8, 8],
+			"color": 0,
 			"children": [12, 13, 14, 15, 16, 17, 18, 19, 20]
 		}
 	]

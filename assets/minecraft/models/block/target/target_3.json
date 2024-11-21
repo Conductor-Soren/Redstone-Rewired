@@ -1,7 +1,76 @@
 {
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "block/umsoea_models/target_3",
-    "side": "block/umsoea_models/target_3"
-  }
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
+	"textures": {
+		"0": "block/umsoea_models/target_3",
+		"particle": "block/umsoea_models/target_3"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.75, 1.75, -0.01],
+			"to": [14.25, 14.25, -0.01],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 2, 0]},
+			"faces": {
+				"north": {"uv": [1.75, 1.75, 14.25, 14.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-0.01, 1.75, 1.74],
+			"to": [-0.01, 14.25, 14.24],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 8, 7.99]},
+			"faces": {
+				"west": {"uv": [1.75, 1.75, 14.25, 14.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [16.01, 1.75, 1.74],
+			"to": [16.01, 14.25, 14.24],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 7.99]},
+			"faces": {
+				"east": {"uv": [1.75, 1.75, 14.25, 14.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.75, 1.75, 16],
+			"to": [14.25, 14.25, 16],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 15.99]},
+			"faces": {
+				"south": {"uv": [1.75, 1.75, 14.25, 14.25], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.75, 16.01, 1.74],
+			"to": [14.25, 16.01, 14.24],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 16, 7.99]},
+			"faces": {
+				"up": {"uv": [1.75, 1.75, 14.25, 14.25], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.75, -0.01, 1.74],
+			"to": [14.25, -0.01, 14.24],
+			"light_emission": 15,
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 0, 7.99]},
+			"faces": {
+				"down": {"uv": [1.75, 1.75, 14.25, 14.25], "rotation": 90, "texture": "#0"}
+			}
+		}
+	]
 }

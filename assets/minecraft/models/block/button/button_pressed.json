@@ -2,6 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "block/umsoea_models/button",
+		"2": "block/umsoea_models/indecator_on_e",
 		"particle": "#texture"
 	},
 	"elements": [
@@ -30,10 +31,48 @@
 			}
 		},
 		{
-			"from": [6.5, 0, 1.5],
-			"to": [9.5, 0.91, 4.5],
+			"from": [7.31, 0.905, 0.43],
+			"to": [8.71, 0.915, 0.54],
+			"light_emission":15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 0]},
 			"faces": {
-				"up": {"uv": [14, 0, 16, 1.96875], "texture": "#1"}
+				"up": {"uv": [0, 13, 16, 14.235], "rotation": 180, "texture": "#2"}
+			}
+		},
+		{
+			"from": [7.65, 0.905, 1.785],
+			"to": [7.76, 0.915, 3.275],
+			"light_emission":15,
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [7.76, 0.91, 2.485]},
+			"faces": {
+				"up": {"uv": [0, 13.25, 16, 14.235], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [8.25, 0.905, 1.7],
+			"to": [8.36, 0.915, 3.1],
+			"light_emission":15,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8.51, 0.91, 2.485]},
+			"faces": {
+				"up": {"uv": [0, 13.25, 16, 14.235], "rotation": 90, "texture": "#2"}
+			}
+		},
+		{
+			"from": [7.4, 0.905, 3.1],
+			"to": [8.6, 0.915, 3.21],
+			"light_emission":15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 2.5]},
+			"faces": {
+				"up": {"uv": [0, 13.25, 16, 14.235], "rotation": 180, "texture": "#2"}
+			}
+		},
+		{
+			"from": [7.31, 0.905, 10.48],
+			"to": [8.71, 0.915, 10.59],
+			"light_emission":15,
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 1, 10]},
+			"faces": {
+				"up": {"uv": [0, 13, 16, 14.235], "texture": "#2"}
 			}
 		}
 	]

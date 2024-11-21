@@ -16,6 +16,7 @@
 		{
 			"from": [7.41, 0.875, 7.4],
 			"to": [16.01, 0.875, 16],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [11.71, 0.875, 11.7]},
 			"faces": {
 				"up": {"uv": [0, 0, 8, 8], "texture": "#1", "tintindex": 0}
