@@ -3,7 +3,7 @@
         "pack_format": 15,
         "supported_formats": {
             "min_inclusive": 15,
-            "max_inclusive": 43
+            "max_inclusive": 53
         },
         "description": "Enjoy the Redstone, Now with Repeaters and Comparators"
     }
