@@ -1,0 +1,7 @@
+{
+  "parent": "block/note_block/note_block",
+  "textures": {
+    "7": "block/umsoea_models/0-15/number_3",
+    "9": "block/umsoea_models/0-15/number_5"
+  }
+}

@@ -1,7 +1,0 @@
-{
-    "parent": "block/note_block/note_block",
-    "texture": {
-        "#10s": "block/umsoea_models/0-15/number_1.png",
-        "#1s": "block/umsoea_models/0-15/number_1.png"
-      }
-}

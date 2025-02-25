@@ -1,7 +1,154 @@
 {
   "variants": {
-      "instrument=harp,powered=false,note=0": {
-      "model": "minecraft:block/note_block/harpp0n0"
+    "powered=false,note=0": {
+      "model": "minecraft:block/note_block/p0n0"
+    },
+    "powered=false,note=1": {
+      "model": "minecraft:block/note_block/p0n1"
+    },
+    "powered=false,note=2": {
+      "model": "minecraft:block/note_block/p0n2"
+    },
+    "powered=false,note=3": {
+      "model": "minecraft:block/note_block/p0n3"
+    },
+    "powered=false,note=4": {
+      "model": "minecraft:block/note_block/p0n4"
+    },
+    "powered=false,note=5": {
+      "model": "minecraft:block/note_block/p0n5"
+    },
+    "powered=false,note=6": {
+      "model": "minecraft:block/note_block/p0n6"
+    },
+    "powered=false,note=7": {
+      "model": "minecraft:block/note_block/p0n7"
+    },
+    "powered=false,note=8": {
+      "model": "minecraft:block/note_block/p0n8"
+    },
+    "powered=false,note=9": {
+      "model": "minecraft:block/note_block/p0n9"
+    },
+    "powered=false,note=10": {
+      "model": "minecraft:block/note_block/p0n10"
+    },
+    "powered=false,note=11": {
+      "model": "minecraft:block/note_block/p0n11"
+    },
+    "powered=false,note=12": {
+      "model": "minecraft:block/note_block/p0n12"
+    },
+    "powered=false,note=13": {
+      "model": "minecraft:block/note_block/p0n13"
+    },
+    "powered=false,note=14": {
+      "model": "minecraft:block/note_block/p0n14"
+    },
+    "powered=false,note=15": {
+      "model": "minecraft:block/note_block/p0n15"
+    },
+    "powered=false,note=16": {
+      "model": "minecraft:block/note_block/p0n16"
+    },
+    "powered=false,note=17": {
+      "model": "minecraft:block/note_block/p0n17"
+    },
+    "powered=false,note=18": {
+      "model": "minecraft:block/note_block/p0n18"
+    },
+    "powered=false,note=19": {
+      "model": "minecraft:block/note_block/p0n19"
+    },
+    "powered=false,note=20": {
+      "model": "minecraft:block/note_block/p0n20"
+    },
+    "powered=false,note=21": {
+      "model": "minecraft:block/note_block/p0n21"
+    },
+    "powered=false,note=22": {
+      "model": "minecraft:block/note_block/p0n22"
+    },
+    "powered=false,note=23": {
+      "model": "minecraft:block/note_block/p0n23"
+    },
+    "powered=false,note=24": {
+      "model": "minecraft:block/note_block/p0n24"
+    },
+    "powered=true,note=0": {
+      "model": "minecraft:block/note_block/p1n0"
+    },
+    "powered=true,note=1": {
+      "model": "minecraft:block/note_block/p1n1"
+    },
+    "powered=true,note=2": {
+      "model": "minecraft:block/note_block/p1n2"
+    },
+    "powered=true,note=3": {
+      "model": "minecraft:block/note_block/p1n3"
+    },
+    "powered=true,note=4": {
+      "model": "minecraft:block/note_block/p1n4"
+    },
+    "powered=true,note=5": {
+      "model": "minecraft:block/note_block/p1n5"
+    },
+    "powered=true,note=6": {
+      "model": "minecraft:block/note_block/p1n6"
+    },
+    "powered=true,note=7": {
+      "model": "minecraft:block/note_block/p1n7"
+    },
+    "powered=true,note=8": {
+      "model": "minecraft:block/note_block/p1n8"
+    },
+    "powered=true,note=9": {
+      "model": "minecraft:block/note_block/p1n9"
+    },
+    "powered=true,note=10": {
+      "model": "minecraft:block/note_block/p1n10"
+    },
+    "powered=true,note=11": {
+      "model": "minecraft:block/note_block/p1n11"
+    },
+    "powered=true,note=12": {
+      "model": "minecraft:block/note_block/p1n12"
+    },
+    "powered=true,note=13": {
+      "model": "minecraft:block/note_block/p1n13"
+    },
+    "powered=true,note=14": {
+      "model": "minecraft:block/note_block/p1n14"
+    },
+    "powered=true,note=15": {
+      "model": "minecraft:block/note_block/p1n15"
+    },
+    "powered=true,note=16": {
+      "model": "minecraft:block/note_block/p1n16"
+    },
+    "powered=true,note=17": {
+      "model": "minecraft:block/note_block/p1n17"
+    },
+    "powered=true,note=18": {
+      "model": "minecraft:block/note_block/p1n18"
+    },
+    "powered=true,note=19": {
+      "model": "minecraft:block/note_block/p1n19"
+    },
+    "powered=true,note=20": {
+      "model": "minecraft:block/note_block/p1n20"
+    },
+    "powered=true,note=21": {
+      "model": "minecraft:block/note_block/p1n21"
+    },
+    "powered=true,note=22": {
+      "model": "minecraft:block/note_block/p1n22"
+    },
+    "powered=true,note=23": {
+      "model": "minecraft:block/note_block/p1n23"
+    },
+    "powered=true,note=24": {
+      "model": "minecraft:block/note_block/p1n24"
     }
   }
 }
