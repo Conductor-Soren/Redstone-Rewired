@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/note_block/note_block_powered",
+  "textures": {
+    "7": "minecraft:block/umsoea_models/0-15/number_3",
+    "9": "minecraft:block/umsoea_models/0-15/number_5"
+  }
+}

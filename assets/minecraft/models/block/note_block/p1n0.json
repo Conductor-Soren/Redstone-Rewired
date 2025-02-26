@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench, By Conductor Soren",
+	"parent": "minecraft:block/note_block/note_block_powered",
+	"textures": {
+		"7": "minecraft:block/umsoea_models/0-15/number_1",
+		"9": "block/umsoea_models/0-15/number_1"
+	}
+}
