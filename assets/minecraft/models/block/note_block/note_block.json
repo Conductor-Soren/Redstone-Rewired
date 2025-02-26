@@ -9,7 +9,7 @@
 		"8": "block/umsoea_models/repeater_base",
 		"9": "block/umsoea_models/0-15/number_2",
 		"10": "block/umsoea_models/treble_clef",
-		"particle": "block/metal"
+		"particle": "block/umsoea_models/piston_frame"
 	},
 	"elements": [
 		{

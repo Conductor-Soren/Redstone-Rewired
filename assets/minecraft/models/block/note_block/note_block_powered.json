@@ -10,7 +10,7 @@
 		"9": "block/umsoea_models/0-15/number_2",
 		"10": "block/umsoea_models/treble_clef",
 		"11": "block/umsoea_models/indecator_on_e",
-		"particle": "block/metal"
+		"particle": "block/umsoea_models/piston_frame_on"
 	},
 	"elements": [
 		{
