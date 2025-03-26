@@ -1,10 +1,10 @@
 {
     "pack": {
-        "pack_format": 15,
+        "pack_format": 46,
         "supported_formats": {
-            "min_inclusive": 15,
-            "max_inclusive": 53
+            "min_inclusive": 46,
+            "max_inclusive": 55
         },
-        "description": "V2.2.0 Enjoy the Redstone, Now with Repeaters and Comparators"
+        "description": "V2.2.3 Adds realistic Redstone wire, Reapeaters and More!"
     }
 }
