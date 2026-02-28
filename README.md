@@ -5,6 +5,6 @@ If you find and bugs or would like to suggest a feature please leave a comment.
 
 I also fixed the T-Junctions on the Redstone.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3QPSWE)
-
 Join my Discord for updates and discussions: https://discord.gg/vvgwB42JqA
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P3QPSWE)
